@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35503
     wikipedia: http://en.wikipedia.org/wiki/Robert_Henry_Newell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31823#The-Orpheus-C.-Kerr-Papers-Series-3
 gutenberg_issued: '2010-03-29'
 gutenberg_type: Text
 identifiers:
