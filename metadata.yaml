@@ -1,0 +1,28 @@
+_repo: The-Orpheus-C.-Kerr-Papers-Series-3_31823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newell, R. H. (Robert Henry)
+    alias: Newell, Robert Henry
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '35503'
+    url: http://www.gutenberg.org/2009/agents/35503
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Henry_Newell
+description: ''
+gutenberg_issued: '2010-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+title: The Orpheus C. Kerr Papers, Series 3
+url: http://www.gutenberg.org/ebooks/31823
